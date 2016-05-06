@@ -1,0 +1,38 @@
+# Dependencies
+markdown:            kramdown
+#highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:year/:month/:day/:title/
+
+# Setup
+title:               "storage monkey news"
+name:				 "storage monkey news"
+tagline:             "blog and news from a geek that specializes in storage and data protection."
+description:         "offering news, tips, opinions on anything geeky but especially in the storage and data protection arenas."
+url:                 http://storagemonkey.news
+baseurl:             /
+paginate:            10
+
+# About/contact
+author:
+  name:              scott boss
+  url:               https://twitter.com/the_sboss
+  email:             scott@sboss.net
+  github:            sboss
+  twitter:           the_sboss
+
+# Custom vars
+version:             1.0.0
+
+# Exclude Ruby gem stuff
+exclude:             ["vendor"]
+
+# Gems
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
