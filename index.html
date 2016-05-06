@@ -12,7 +12,7 @@ title: home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date: "%-d %B %Y" | downcase  }}</span>
+    <span class="post-date">{{ post.date | date: "%-d %B %Y" | downcase  }} by {{ post.author }}</span>
 
     {{ post.excerpt }} <a href="{{ post.url }}">(read more...)</a>
   </div>
