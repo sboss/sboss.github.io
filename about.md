@@ -13,7 +13,7 @@ now on a more serious note.  for the last 15+ years I have been a storage admini
 
 this blog is my way of giving back to the community by allowing me to share my knowledge with you.  hopefully my battle scars and nightmares help you to avoid the same situations in the future.  *learn from my mistakes*.
 
-I current hold certifications in [EMC]( http://emc.com ), [Pure Storage]( https://purestorage.com ), [Solidfire]( http://solidfire.com ), [Nimble]( https://nimblestorage.com ) [HPE]( http://hpe.com )and [VMware]( http://vmware.com ).  and more to *come soon*.  I have had lots of others but they have expired (or I refuse to acknowledge them).
+I current hold certifications in [EMC]( http://emc.com ), [Pure Storage]( https://purestorage.com ), [Solidfire]( http://solidfire.com ), [Nimble]( https://nimblestorage.com ), [HPE]( http://hpe.com ) and [VMware]( http://vmware.com ).  and more to *come soon*.  I have had lots of others but they have expired (or I refuse to acknowledge them).
 
 ### **NOTICE**
 
