@@ -10,7 +10,6 @@ tags:
 - puppet
 - anisble
 - chef
-- saltstack
 ---
 
 ## how do you automate your infrastructure?
